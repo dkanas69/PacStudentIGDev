@@ -70,7 +70,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
@@ -109,19 +109,19 @@ TextureImporter:
       name: Lives_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 592
-        width: 448
-        height: 384
+        x: 1
+        y: 36
+        width: 28
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 087ae0d46a4b5b84294415bc7e83c77e
-      internalID: -183542869
+      spriteID: 96cc6ea8d0b34a142907782f1438ee99
+      internalID: 2070238243
       vertices: []
       indices: 
       edges: []
@@ -130,19 +130,19 @@ TextureImporter:
       name: Lives_1
       rect:
         serializedVersion: 2
-        x: 144
-        y: 224
-        width: 224
-        height: 176
+        x: 8
+        y: 13
+        width: 14
+        height: 11
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1111c24f48390fc4d869ce823d07b52f
-      internalID: -236476741
+      spriteID: ba0a3c1e67a8f6547bddf7b92ae05e85
+      internalID: 1751662248
       vertices: []
       indices: 
       edges: []
@@ -158,8 +158,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Lives_0: -183542869
-      Lives_1: -236476741
+      Lives_0: 2070238243
+      Lives_1: 1751662248
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

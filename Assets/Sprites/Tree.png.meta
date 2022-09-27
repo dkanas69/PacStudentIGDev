@@ -70,8 +70,8 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureFormat: 4
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,19 +109,19 @@ TextureImporter:
       name: Tree_0
       rect:
         serializedVersion: 2
-        x: 64
-        y: 1600
-        width: 288
-        height: 416
+        x: 2
+        y: 50
+        width: 9
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea066bdf7f4a4264f8a6e509ab6edae9
-      internalID: 1242821504
+      spriteID: f3c44419d5947b841a33684fbcd966af
+      internalID: 1367462912
       vertices: []
       indices: 
       edges: []
@@ -130,19 +130,19 @@ TextureImporter:
       name: Tree_1
       rect:
         serializedVersion: 2
-        x: 1088
-        y: 1600
-        width: 288
-        height: 416
+        x: 34
+        y: 50
+        width: 9
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7172ded08af41814da8e189cb7ab9c87
-      internalID: 1062567673
+      spriteID: bdee589969aeccc4dbe2d38016272cf2
+      internalID: -745688119
       vertices: []
       indices: 
       edges: []
@@ -151,19 +151,19 @@ TextureImporter:
       name: Tree_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 576
-        width: 288
-        height: 416
+        x: 2
+        y: 18
+        width: 9
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e845c48155329f346a3bfe8836adb918
-      internalID: -1929457586
+      spriteID: 6e1eff0c894bd2f4090ace25f89a3554
+      internalID: 1306763993
       vertices: []
       indices: 
       edges: []
@@ -172,19 +172,19 @@ TextureImporter:
       name: Tree_3
       rect:
         serializedVersion: 2
-        x: 1088
-        y: 576
-        width: 288
-        height: 416
+        x: 34
+        y: 18
+        width: 9
+        height: 13
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5badbb93579a2c243befd3784af822ec
-      internalID: -619480641
+      spriteID: 5ec978d6ac1c72a4f9da2492224f720f
+      internalID: 2037334802
       vertices: []
       indices: 
       edges: []
@@ -200,10 +200,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tree_0: 1242821504
-      Tree_3: -619480641
-      Tree_1: 1062567673
-      Tree_2: -1929457586
+      Tree_0: 1367462912
+      Tree_3: 2037334802
+      Tree_1: -745688119
+      Tree_2: 1306763993
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
