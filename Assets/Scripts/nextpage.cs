@@ -8,4 +8,9 @@ public class nextpage : MonoBehaviour
  public void onclickloadlevel () {
     SceneManager.LoadScene(1);
  }
+
+    public void onclickexit()
+    {
+        SceneManager.LoadScene(0);
+    }
 }
